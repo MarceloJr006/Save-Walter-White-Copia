@@ -1,6 +1,6 @@
 body{
     display: block;
-    background-image: url("http://www.savewalterwhite.com/img/tile.png");
+    background-image: url("../img/tile.png");
     justify-content: center;
     background-color: aquamarine;
     margin: 0 auto;
