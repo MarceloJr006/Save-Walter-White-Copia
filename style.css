@@ -1,0 +1,89 @@
+body{
+    display: block;
+    background-image: url("https://i.imgur.com/cBV9OnL.png");
+    justify-content: center;
+    background-color: aquamarine;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -80px;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+}
+.titulo{
+    font-size: 100px;
+    color: white;
+
+}
+
+.subtitulo{
+    font-size: 40px;
+    color: yellow;
+    margin-top: -100px;
+}
+
+.fotos img{
+    padding-left: 30px;
+}
+
+.text2{
+    color: yellow;
+    font-size: 25px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.text3{
+    color: yellow;
+    font-size: 25px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.text4{
+    color: white;
+    font-size: 25px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.text5{
+    color: yellow;
+    font-size: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.text6{
+    color: orange;
+    font-size: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.fotos-donate img{
+    margin-bottom: 20px;
+}
+
+.donate{
+    background-color: black;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 250px;
+    font-size: 30px;
+}
+.donate p{
+    padding-top: 20px;
+}
+
+.textult{
+    color: yellow;
+}
+
+.termos a{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+
+.termosult{
+    font-size: 13px;
+}
